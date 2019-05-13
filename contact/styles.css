@@ -1,0 +1,32 @@
+.wrapper {
+  margin-bottom: 400px;
+}
+
+.titleH1,
+.titleH2 {
+  color: $colorTitlePrimary;
+  margin-bottom: 0;
+}
+
+.titleH2 {
+  font-size: 16px;
+}
+
+.titleH1 {
+  margin-top: 70px;
+}
+
+.description {
+  color: $colorTextPrimary;
+  line-height: 30px;
+  margin-top: 5px;
+}
+
+.titleDescription {
+  margin-top: 20px;
+}
+
+.wrapperSocial {
+  margin-left: -15px;
+  margin-top: 32px;
+}

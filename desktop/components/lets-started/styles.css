@@ -1,0 +1,40 @@
+.wrapper {
+  padding: 80px 0;
+  margin-top: 0;
+  color: white;
+  text-align: center;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 38px;
+  font-weight: 400;
+}
+
+.text {
+  display: block;
+  margin: auto;
+  max-width: 60%;
+  line-height: 30px;
+  font-size: 18px;
+  margin-bottom: 40px;
+  font-weight: 100;
+}
+
+.wrapperButtons {
+  margin-top: -30px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.downloadNow {
+  font-size: 26px;
+  font-weight: 100;
+}
+
+.downloadNow img {
+  vertical-align: top;
+  margin-right: 15px;
+}
